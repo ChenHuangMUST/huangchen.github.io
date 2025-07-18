@@ -12,8 +12,8 @@ site_theme               : "default"
 title                    : "Chen Huang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chen Huang"
-description              : &description "personal description"
-url                      : https://huangchen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "Assitant Professor in Macau University of Science and Technology"
+url                      : https://chenhuangmust.github.io/huangchen.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChenHuangMUST/huangchen.github.io"
 
@@ -22,13 +22,13 @@ repository               : "ChenHuangMUST/huangchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "微信图片_20250718211108_77111.jpg"
+  avatar           : "微信图片_20250718211108_77111.png"
   name             : "Chen Huang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
+  uri              : https://chenhuangmust.github.io/huangchen.github.io/ # URL
   email            : "chuang@must.edu.mo" 
 
   # Academic websites
