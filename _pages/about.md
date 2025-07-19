@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Chen Huang"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Briefing Introduction
-======
 Dr. Huang worked as assistant professor in State Key Laboratory of Quality Research in Chinese Medicine, Macau University of Science and Technology, the main research interests include, but not limited to precision oncology, tumor metabolism, tumor immunity and generation and optimazation of Traditional Chinese Medicine (TCM) formulas.
 
 
