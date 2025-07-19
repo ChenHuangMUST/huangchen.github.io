@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "微信图片_20250718211108_77111.png"
   name             : "Chen Huang"
-  pronouns         : "he/his" # example: "she/her"  
+  pronouns         : #"he/his" # example: "she/her"  
   bio              : "Assistant Professor in Macau University of Science and Technology"
-  location         : "China"
-  employer         : "Macau University of Science and Technology"
+  location         : "Avenida Wai Long, Taipa, Macau, China"
+  employer         : #"Macau University of Science and Technology"
   uri              : https://chenhuangmust.github.io/huangchen.github.io/ # URL
   email            : "chuang@must.edu.mo" 
 
