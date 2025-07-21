@@ -89,7 +89,8 @@ Publications
 
 28.Predict potential drug targets from the ion channel proteins based on SVM. _**J Theor Biol.**_ 2010 Feb 21;262(4):750-6. (**Co-first author**)
 
-Representative Papers published as Co-author
+**Representative Papers published as Co-author**
+
 29.Shared genetics and causal association between plasma levels of SARS‐CoV‐2 entry receptor ACE2 and Alzheimer's disease. CNS Neurosci Ther. 2024 Jul;30(7):e14873.
 
 30.RespirAnalyzer: an R package for analyzing data from continuous monitoring of respiratory signals. Bioinform Adv. 2024 Jan 13;4(1):vbae003.
