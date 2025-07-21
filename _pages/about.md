@@ -33,6 +33,9 @@ Working experiences
 
 Publications
 ======
+
+**Representative Papers published as Corresponding author or Co-first author**
+
 1.Ultrasound-responsive nanobubble-mediated sonodynamic therapy sensitizes disulfidptosis in the treatment of liver hepatocellular carcinoma. _**Ultrasonics Sonochemistry**_. Volume 118, July 2025, 107368. (**Corresponding author**)
 
 2.Computational Tools for Studying Genome Structural Variation. _**OMICS: A Journal of Integrative Biology**_. 2025 Feb;29(2):36-48. (**Corresponding author**)
