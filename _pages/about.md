@@ -35,7 +35,6 @@ Publications
 ======
 
 **Representative Papers published as Corresponding author or Co-first author**
-====
 
 1.Ultrasound-responsive nanobubble-mediated sonodynamic therapy sensitizes disulfidptosis in the treatment of liver hepatocellular carcinoma. _**Ultrasonics Sonochemistry**_. Volume 118, July 2025, 107368. (**Corresponding author**)
 
@@ -94,7 +93,6 @@ Publications
 28.Predict potential drug targets from the ion channel proteins based on SVM. _**J Theor Biol.**_ 2010 Feb 21;262(4):750-6. (**Co-first author**)
 
 **Representative Papers published as Co-author**
-====
 
 29.Shared genetics and causal association between plasma levels of SARS‐CoV‐2 entry receptor ACE2 and Alzheimer's disease. CNS Neurosci Ther. 2024 Jul;30(7):e14873.
 
