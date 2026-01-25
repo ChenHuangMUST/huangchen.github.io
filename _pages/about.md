@@ -87,7 +87,7 @@ Publications
 
 26.Re-analysis of the coral Acropora digitifera transcriptome reveals a complex lncRNAs-mRNAs interaction network implicated in Symbiodinium infection. _**BMC Genomics**_. 2019 Jan 16;20(1):48. (**Co-first author**)
 
-27.Identification of long non-coding RNAs in two anthozoan species and their possible implications for coral bleaching. _**Sci Rep**_. 2017 Jul 13;7(1):5333. (First author**)
+27.Identification of long non-coding RNAs in two anthozoan species and their possible implications for coral bleaching. _**Sci Rep**_. 2017 Jul 13;7(1):5333. (**First author**)
 
 28.Genome-guided Investigation of Antibiotic Substances produced by Allosalinactinospora lopnorensis CA15-2T from Lop Nor region, China. _**Sci Rep**_. 2016 Feb 11:6:20667. (**Co-first author**)
 
