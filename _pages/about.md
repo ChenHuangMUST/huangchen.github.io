@@ -35,6 +35,7 @@ Publications
 ======
 
 **Representative Papers published as First author or Corresponding author**
+======
 1.M-STGCN: A Position-Aware Multimodal Graph Convolutional Framework for Joint Spatial Domain Identification and Gene Expression Denoising. _**Small Methods**_. DOI: 10.1002/smtd.202501812 (2026). (**Corresponding author**)
 
 2.Prioritizing pathway signature using deep learning approach: a novel strategy for Traditional Chinese Medicine Formula generation and optimization. _**Briefings in Bioinformatics**_. Volume 26, Issue 4, July 2025, bbaf403. (**Corresponding author**)
@@ -98,6 +99,7 @@ Publications
 31.Predict potential drug targets from the ion channel proteins based on SVM. _**J Theor Biol**_. 2010 Feb 21;262(4):750-6. (**Co-first author**)
 
 **Representative Papers published as Co-author**
+======
 32.Hylocereus polyrhizus pomace polysaccharides for the treatment of obesity-induced intestinal mucosal injury. _**International Journal of Biological Macromolecules**_. Volume 333, Part 1, December 2025, 148768.
 
 33.In Situ Assembly of Transformable Monopeptide on Activated Neutrophils Attenuates NETs-Induced Hepatocellular Carcinoma Metastasis by Disrupting NE Nuclear Translocation. _**Advanced Science**_. 24 October 2025.
