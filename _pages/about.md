@@ -33,7 +33,6 @@ Working experiences
 
 Publications
 ======
-
 **Representative Papers published as First author or Corresponding author**
 
 1.M-STGCN: A Position-Aware Multimodal Graph Convolutional Framework for Joint Spatial Domain Identification and Gene Expression Denoising. _**Small Methods**_. DOI: 10.1002/smtd.202501812 (2026). (**Corresponding author**)
@@ -84,7 +83,7 @@ Publications
 
 24.Transcriptome analysis reveals lncRNA-mediated complex regulatory network response to DNA damage in the liver tissue of Rattus norvegicus. _**J Cell Physiol**_. 2019 Dec;234(12):23216-23231. (**Co-first author**)
 
-25.**Co-expression network analysis of lncRNAs and mRNAs in Rats liver tissue reveals the complex interactions in response to pathogenic cytotoxicity. _**Int J Biol Sci**_. 2019 Aug 22;15(11):2296-2307. (**Co-first author**)
+25.Co-expression network analysis of lncRNAs and mRNAs in Rats liver tissue reveals the complex interactions in response to pathogenic cytotoxicity. _**Int J Biol Sci**_. 2019 Aug 22;15(11):2296-2307. (**Co-first author**)
 
 26.Re-analysis of the coral Acropora digitifera transcriptome reveals a complex lncRNAs-mRNAs interaction network implicated in Symbiodinium infection. _**BMC Genomics**_. 2019 Jan 16;20(1):48. (**Co-first author**)
 
@@ -106,9 +105,9 @@ Publications
 
 34.Pitaya stem polysaccharide promotes wound healing by modulating macrophage polarization via single-cell RNA sequencing evidence. _**International Journal of Biological Macromolecules**_. Volume 308, Part 3, May 2025, 142653.
 
-35.Taurine and proline promote lung tumour growth by **Co-regulating Azgp1/mTOR signalling pathway. _**NPJ Precision Oncology**_. 9, Article number: 90 (2025)
+35.Taurine and proline promote lung tumour growth by Co-regulating Azgp1/mTOR signalling pathway. _**NPJ Precision Oncology**_. 9, Article number: 90 (2025)
 
-36.Dietary polysaccharides from dragon fruit pomace, a **Co-product of the fruit processing industry, exhibit therapeutic potential in high-fat diet-induced metabolic disorders. _**Food Research International**_. Volume 203, February 2025, 115818.
+36.Dietary polysaccharides from dragon fruit pomace, a Co-product of the fruit processing industry, exhibit therapeutic potential in high-fat diet-induced metabolic disorders. _**Food Research International**_. Volume 203, February 2025, 115818.
 
 37.Shared genetics and causal association between plasma levels of SARS‐CoV‐2 entry receptor ACE2 and Alzheimer's disease. _**CNS Neurosci Ther**_. 2024 Jul;30(7):e14873.
 
@@ -141,5 +140,7 @@ Publications
 51.Whole genome sequencing of Ethiopian highlanders reveals conserved hypoxia tolerance genes. _**Genome Biol**_. 2014 Feb 20;15(2):R36.
 
 52.Whole-Genome Sequencing Uncovers the Genetic Basis of Chronic Mountain Sickness in Andean Highlanders. _**Am J Hum Genet**_. 2013 Sep 5;93(3):452-62.
+
+
 
 
